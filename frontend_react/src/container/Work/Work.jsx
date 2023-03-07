@@ -1,8 +1,8 @@
-import React from "react";
 import "./Work.scss";
+import React from "react";
 
-function Work() {
+const Work = () => {
   return <div>Work</div>;
-}
+};
 
 export default Work;

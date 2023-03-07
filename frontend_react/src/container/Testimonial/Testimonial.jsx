@@ -1,8 +1,8 @@
 import React from "react";
 import "./Testimonial.scss";
 
-function Testimonial() {
+const Testimonial = () => {
   return <div>Testimonial</div>;
-}
+};
 
 export default Testimonial;
